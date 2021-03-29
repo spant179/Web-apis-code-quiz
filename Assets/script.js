@@ -66,23 +66,23 @@ var questions =[
     },
     {
         question: "Which built-in method removes the last element from an array and returns that element?",
-        answers:["last()","pop()","first()","get()"],
-        correctAnswer: 'pop()'
+        answers:["last","pop","first","get"],
+        correctAnswer: "pop"
     },
     {
         question: "Which of the following function of Boolean object returns a string containing the source of the Boolean object?",
-        answers:["toSource()","valueOf()","toString()","toUpper()"],
-        correctAnswer: 'toSource()'
+        answers:["toSource","valueOf","toString","toUpper"],
+        correctAnswer: "toSource"
     },
     {
         question: "Which of the following function of String object splits a String object into an array of strings by separating the string into substrings?",
-        answers:["slice()","replace()","search()","split()"],
-        correctAnswer: 'split()'
+        answers:["slice","replace","search","split"],
+        correctAnswer: "split"
     },
     {
         question: "Which of the following function of Array object extracts a section of an array and returns a new array?",
-        answers:["reverse()","shift()","slice()","map()"],
-        correctAnswer: 'slice()'
+        answers:["reverse","shift","slice","map"],
+        correctAnswer: "slice"
     }
 
 ]

@@ -1,25 +1,93 @@
-h1 {
-font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: x-large;
-    text-align: center;
-    color: darkred;
+*, *::before, *::after{
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 
-p{
+h1{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
-    text-align: justify;
+    color: rgb(243, 11, 11);
+    font-weight: bolder;
+    padding-top: 200px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
 }
+
 
 #Start {
     position: absolute;
     right:50%;
+    text-align: center;
     
+  
 }
 
 #mycounter {
     position: absolute;
     right:5%;
+    text-align: ;
 }
 
+  
+  .btn:hover {
+    border-color: white;
+    background-color: black;
+    color: white;
+  }
+
+
+  button{
+
+  background-color: rgb(157, 184, 241);
+    color: #ffffff;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+.button-hide{
+    display: none;
+  }
+
+  p{
+    font-family: arial;
+    line-height: 1;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 50px;
+    color: gray;
+}
+  
+
+#answers button{
+  
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #5779c4;
+    color: white;
+    text-align: justify;
+    display: inline-flexbox;
+    border: 1px solid rgb(5, 5, 5);   
+    justify-content: center;
+    margin: 0 auto;
+    margin-top:10px;
+    padding: 1px;
+}
+    
+#questionPlaceholder{
+
+    text-align: center;
+    padding: 100px;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
