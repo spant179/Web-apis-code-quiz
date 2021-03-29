@@ -18,7 +18,7 @@ Usage
 
 ### __Links__
 - [Sandhya Pant' Github Repository](https://github.com/spant179/Web-apis-code-quiz)
-
+- [WEB API CODE QUIZ](https://spant179.github.io/Web-apis-code-quiz/)
 
 
 
