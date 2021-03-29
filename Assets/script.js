@@ -43,7 +43,7 @@ function DisplayQuestions()
 }
 
 function AddScore(){
-    userName = document.getElementById('userName').nodeValue;
+    userName = prompt("Enter your initials");
 
     var userScore= {
         name: userName,

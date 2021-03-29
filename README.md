@@ -12,13 +12,13 @@ For this project, we were asked to create a timed quiz on JavaScript fundamental
 
 
 Usage
-![screencapture-file-Users-spant-Desktop-Web-apis-code-quiz-Assets-index-html-2021-03-28-22_49_19](https://user-images.githubusercontent.com/79482141/112780971-f12f7980-9017-11eb-844c-52bf5b3e8d7f.png)
+![screencapture-127-0-0-1-5500-Assets-index-html-2021-03-28-23_35_49](https://user-images.githubusercontent.com/79482141/112783991-85044400-901e-11eb-912c-027f01cd0391.png)
 
 
 
 ### __Links__
 - [Sandhya Pant' Github Repository](https://github.com/spant179/Web-apis-code-quiz)
-- [WEB API CODE QUIZ](https://spant179.github.io/Web-apis-code-quiz/)
+- [WEB API CODE QUIZ](https://spant179.github.io/Web-apis-code-quiz/Assets)
 
 
 
